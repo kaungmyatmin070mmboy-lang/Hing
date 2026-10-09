@@ -1,0 +1,3 @@
+pyTelegramBotAPI>=4.11.0
+aiohttp>=3.8.4
+ddddocr>=0.0.62
